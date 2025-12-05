@@ -1,45 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=058a28&height=200&section=header&text=Hello%20Steve!&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20World&descSize=20&descAlignY=55" width="100%" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&size=20&duration=3000&pause=1000&color=F7F7F7&background=00000000&vCenter=true&width=435&lines=%3C+gangcaiyoule+joined+the+game+%2F%3E;Wake+up%2C+Neo...;Crafting+code+since+2024..." alt="Minecraft Chat" />
+</p>
 
-<br/>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Achievement%20Get!-Visited%20Profile-green?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=5d5d5d&color=66bb6a" alt="Achievement Unlocked">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1D1D1D&height=150&section=header&text=MINECRAFT&fontSize=70&fontColor=787C7E&fontAlign=50&fontAlignY=40&desc=BUILDING%20THE%20WEB%20BLOCK%20BY%20BLOCK&descSize=20&descAlign=50&descAlignY=75&animation=fadeIn" width="100%" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=38b000&size=18&lines=I+am+a+Developer;Crafting+Code+Blocks;Building+Virtual+Worlds" alt="Typing effect" />
-
-<br/><br/>
-
-### 🎒 Inventory (Tech Stack)
-
-| **Redstone (Logic)** | **Construction (Web)** | **Tools (Items)** |
-| :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
+<table border="0" width="100%">
+    <tr>
+        <td align="center" width="33%">
+            <img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/><img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/><img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/><img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/><img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/>
+            <br/>
+            <strong style="font-family: monospace">Full Stack</strong>
+        </td>
+        <td align="center" width="33%">
+            <img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/><img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/><img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/><img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/><img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/>
+            <br/>
+            <strong style="font-family: monospace">Bug Defense</strong>
+        </td>
+        <td align="center" width="33%">
+            <img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/><img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/><img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/><img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/><img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/>
+            <br/>
+            <strong style="font-family: monospace">Coding Energy</strong>
+        </td>
+    </tr>
+</table>
 
 <br/>
 
-### 📊 Player Stats
+<h3 align="left">🛠️ Inventory (Tech Stack)</h3>
+<table align="center" style="background-color: #C6C6C6; border: 4px solid #373737;">
+  <tr>
+    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
+    </td>
+    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+    </td>
+    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
+    </td>
+    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" />
+    </td>
+    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JS" />
+    </td>
+     <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
+    </td>
+     <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring" />
+    </td>
+     <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" />
+    </td>
+     <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
+    </td>
+  </tr>
+</table>
 
+<br/><br/>
+
+<h3 align="left">🗺️ Exploration Map</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gangcaiyoule/gangcaiyoule/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gangcaiyoule/gangcaiyoule/raw/output/github-contribution-grid-snake.svg">
+  <img alt="snake" src="https://github.com/gangcaiyoule/gangcaiyoule/raw/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+<h3 align="left">📊 Player Statistics</h3>
 <table align="center">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gangcaiyoule&show_icons=true&theme=react&rank_icon=github&count_private=true&hide_border=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7" height="180" alt="stats" />
+    <td style="padding-right: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=gangcaiyoule&show_icons=true&theme=dark&hide_border=true&bg_color=1D1D1D&title_color=5bcefa&icon_color=5bcefa&text_color=ffffff" height="170" alt="stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangcaiyoule&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=2f81f7" height="180" alt="languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangcaiyoule&layout=compact&theme=dark&hide_border=true&bg_color=1D1D1D&title_color=5bcefa&text_color=ffffff" height="170" alt="languages" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platform-E/Platform-E/resources/img/pixel-footer.png" width="100%" alt="footer">
+<img src="https://raw.githubusercontent.com/SFM61319/SFM61319/master/assets/grass.png" width="100%" style="border-radius: 10px;" />
+
+<p align="center">
+  <samp>Made with <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="12"/> and Redstone</samp>
+</p>
 
 </div>
 ### 🐍 Contribution Snake
