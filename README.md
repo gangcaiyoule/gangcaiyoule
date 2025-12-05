@@ -1,103 +1,61 @@
 <div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&size=20&duration=3000&pause=1000&color=F7F7F7&background=00000000&vCenter=true&width=435&lines=%3C+gangcaiyoule+joined+the+game+%2F%3E;Wake+up%2C+Neo...;Crafting+code+since+2024..." alt="Minecraft Chat" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1D1D1D&height=150&section=header&text=MINECRAFT&fontSize=70&fontColor=787C7E&fontAlign=50&fontAlignY=40&desc=BUILDING%20THE%20WEB%20BLOCK%20BY%20BLOCK&descSize=20&descAlign=50&descAlignY=75&animation=fadeIn" width="100%" />
-
-<br/><br/>
-
 <table border="0" width="100%">
-    <tr>
-        <td align="center" width="33%">
-            <img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/><img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/><img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/><img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/><img src="https://i.imgur.com/B942yqN.png" width="20" alt="Heart"/>
-            <br/>
-            <strong style="font-family: monospace">Full Stack</strong>
-        </td>
-        <td align="center" width="33%">
-            <img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/><img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/><img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/><img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/><img src="https://i.imgur.com/h5r8t9t.png" width="20" alt="Armor"/>
-            <br/>
-            <strong style="font-family: monospace">Bug Defense</strong>
-        </td>
-        <td align="center" width="33%">
-            <img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/><img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/><img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/><img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/><img src="https://i.imgur.com/J8WkCgE.png" width="20" alt="Food"/>
-            <br/>
-            <strong style="font-family: monospace">Coding Energy</strong>
-        </td>
-    </tr>
-</table>
-
-<br/>
-
-<h3 align="left">🛠️ Inventory (Tech Stack)</h3>
-<table align="center" style="background-color: #C6C6C6; border: 4px solid #373737;">
   <tr>
-    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
+    <td width="60%" align="center" valign="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=30&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=450&lines=Hi,+I'm+Gangcaiyoule+👋;A+Developer+&+Otaku;Code,+Coffee,+and+Anime." alt="Typing SVG" />
+      </a>
+      <br/><br/>
+      <p style="font-size: 14px; color: #666;">
+        🌱 I’m currently learning <b>Java & React</b><br/>
+        🎯 Goals: Build beautiful apps & watch more anime<br/>
+        💬 Ask me about <b>Tech or Waifus</b>
+      </p>
+      <br/>
+      <a href="https://github.com/gangcaiyoule"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&logo=bilibili&logoColor=white" /></a>
     </td>
-    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-    </td>
-    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML" />
-    </td>
-    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS" />
-    </td>
-    <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JS" />
-    </td>
-     <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
-    </td>
-     <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" alt="Spring" />
-    </td>
-     <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" />
-    </td>
-     <td align="center" width="60" height="60" style="background-color: #8B8B8B; border: 2px solid #373737;">
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
-    </td>
-  </tr>
-</table>
-
-<br/><br/>
-
-<h3 align="left">🗺️ Exploration Map</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gangcaiyoule/gangcaiyoule/raw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gangcaiyoule/gangcaiyoule/raw/output/github-contribution-grid-snake.svg">
-  <img alt="snake" src="https://github.com/gangcaiyoule/gangcaiyoule/raw/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-<br/><br/>
-
-<h3 align="left">📊 Player Statistics</h3>
-<table align="center">
-  <tr>
-    <td style="padding-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=gangcaiyoule&show_icons=true&theme=dark&hide_border=true&bg_color=1D1D1D&title_color=5bcefa&icon_color=5bcefa&text_color=ffffff" height="170" alt="stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangcaiyoule&layout=compact&theme=dark&hide_border=true&bg_color=1D1D1D&title_color=5bcefa&text_color=ffffff" height="170" alt="languages" />
+    <td width="40%" align="center">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E2d3Z6eW55b3E2d3Z6eW55b3E2d3Z6eW55b3E2ZH/LBdK869xYxXoY/giphy.gif" width="200" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SFM61319/SFM61319/master/assets/grass.png" width="100%" style="border-radius: 10px;" />
+<h3 align="center" style="color: #333;">💻 Tech Stack</h3>
 
 <p align="center">
-  <samp>Made with <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="12"/> and Redstone</samp>
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<br/>
+
+<h3 align="center" style="color: #333;">📈 GitHub Activity</h3>
+
+<table border="0" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=gangcaiyoule&show_icons=true&hide_border=true&title_color=FB7299&icon_color=2496ED&text_color=555555&bg_color=00000000" height="160" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangcaiyoule&layout=compact&hide_border=true&title_color=FB7299&text_color=555555&bg_color=00000000" height="160" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2496ED,FB7299&height=100&section=footer" width="100%" />
 </p>
 
 </div>
-### 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gangcaiyoule/gangcaiyoule/raw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gangcaiyoule/gangcaiyoule/raw/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/gangcaiyoule/gangcaiyoule/raw/output/github-contribution-grid-snake.svg">
-</picture>
