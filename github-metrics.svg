@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics for gangcaiyoule</title>
+  <desc id="desc">Initial preview. The Metrics workflow will replace this image with the full activity card.</desc>
+  <rect x="1" y="1" width="958" height="278" rx="12" fill="#ffffff" stroke="#d0d7de" />
+  <circle cx="66" cy="70" r="31" fill="#ff4f79" />
+  <text x="66" y="79" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#ffffff">g</text>
+  <text x="116" y="68" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#24292f">gangcaiyoule</text>
+  <text x="116" y="93" font-family="Arial, sans-serif" font-size="15" fill="#57606a">GitHub metrics</text>
+  <line x1="32" y1="122" x2="928" y2="122" stroke="#d0d7de" />
+  <text x="42" y="168" font-family="Arial, sans-serif" font-size="18" fill="#24292f">29 public repositories</text>
+  <text x="350" y="168" font-family="Arial, sans-serif" font-size="18" fill="#24292f">10 followers</text>
+  <text x="42" y="218" font-family="Arial, sans-serif" font-size="16" fill="#57606a">Contribution calendar, coding activity, languages and other metrics</text>
+  <text x="42" y="243" font-family="Arial, sans-serif" font-size="14" fill="#57606a">will appear here after the Metrics workflow runs.</text>
+</svg>
